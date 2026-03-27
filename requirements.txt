@@ -1,0 +1,9 @@
+mne>=1.6
+mne-bids>=0.14
+mne-nirs>=0.7
+numpy
+scipy
+torch>=2.0
+matplotlib
+openneuro-py
+h5py
